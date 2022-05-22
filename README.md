@@ -1,10 +1,10 @@
 # webapp-flask
 
-###Run app
+### Run app
 `python3 app.py`
 `python3 app.py --color green`
 
-###Run tests
+### Run tests
 ```
 python3 -m venv ./venv
 source venv/bin/activate
